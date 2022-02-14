@@ -1,1 +1,2 @@
-print("[지상 유닛 이동]")
+lst = [1,2,3]
+# print(dir(lst))
